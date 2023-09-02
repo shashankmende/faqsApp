@@ -1,0 +1,25 @@
+/* Write your code here. */
+.bg-container {
+  background-color: #f1f5f8;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 30px;
+}
+.main-container {
+  width: 80%;
+  padding: 20px;
+  border: 2px solid red;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 15px;
+}
+.unordered-list {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
